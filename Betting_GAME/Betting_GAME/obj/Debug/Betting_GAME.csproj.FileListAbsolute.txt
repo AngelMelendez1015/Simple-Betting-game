@@ -1,0 +1,15 @@
+/home/pryog/Projects/Betting_GAME/Betting_GAME/bin/Betting_GAME.dll
+/home/pryog/Projects/Betting_GAME/Betting_GAME/bin/Betting_GAME.pdb
+/home/pryog/Projects/Betting_GAME/Betting_GAME/bin/Newtonsoft.Json.dll
+/home/pryog/Projects/Betting_GAME/Betting_GAME/bin/System.Net.Http.Formatting.dll
+/home/pryog/Projects/Betting_GAME/Betting_GAME/bin/System.Web.Http.dll
+/home/pryog/Projects/Betting_GAME/Betting_GAME/bin/System.Web.Http.WebHost.dll
+/home/pryog/Projects/Betting_GAME/Betting_GAME/bin/Newtonsoft.Json.xml
+/home/pryog/Projects/Betting_GAME/Betting_GAME/bin/System.Net.Http.Formatting.xml
+/home/pryog/Projects/Betting_GAME/Betting_GAME/bin/System.Web.Http.xml
+/home/pryog/Projects/Betting_GAME/Betting_GAME/bin/System.Web.Http.WebHost.xml
+/home/pryog/Projects/Betting_GAME/Betting_GAME/obj/Debug/Betting_GAME.csproj.AssemblyReference.cache
+/home/pryog/Projects/Betting_GAME/Betting_GAME/obj/Debug/Betting_GAME.csproj.CoreCompileInputs.cache
+/home/pryog/Projects/Betting_GAME/Betting_GAME/obj/Debug/Betting_GAME.csproj.CopyComplete
+/home/pryog/Projects/Betting_GAME/Betting_GAME/obj/Debug/Betting_GAME.dll
+/home/pryog/Projects/Betting_GAME/Betting_GAME/obj/Debug/Betting_GAME.pdb

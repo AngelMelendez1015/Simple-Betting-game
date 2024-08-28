@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Betting_GAME", "Betting_GAME\Betting_GAME.csproj", "{042308A7-9AB9-470D-BBCB-2E9706D460AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Betting_GAME.Tests", "Betting_GAME.Tests\Betting_GAME.Tests.csproj", "{3B734F85-E912-485D-B2FA-8844099916B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{042308A7-9AB9-470D-BBCB-2E9706D460AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{042308A7-9AB9-470D-BBCB-2E9706D460AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{042308A7-9AB9-470D-BBCB-2E9706D460AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{042308A7-9AB9-470D-BBCB-2E9706D460AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B734F85-E912-485D-B2FA-8844099916B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B734F85-E912-485D-B2FA-8844099916B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B734F85-E912-485D-B2FA-8844099916B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B734F85-E912-485D-B2FA-8844099916B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
