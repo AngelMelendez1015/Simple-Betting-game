@@ -24,13 +24,13 @@ To set up and run this project locally, follow these steps:
 
     bash
 
-git clone https://github.com/yourusername/betting-game.git
+git clone https://github.com/pryogendra/Simple-Betting-Game.git
 
 Navigate to the project directory:
 
 bash
 
-cd betting-game
+cd Simple-Betting-Game
 
 Restore the project dependencies:
 
