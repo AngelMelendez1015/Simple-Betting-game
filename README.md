@@ -24,7 +24,7 @@ To set up and run this project locally, follow these steps:
 
     bash
 
-git clone https://github.com/pryogendra/Simple-Betting-Game.git
+git clone https://github.com/AngelMelendez1015/Simple-Betting-Game.git
 
 Navigate to the project directory:
 
